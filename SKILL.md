@@ -1,5 +1,5 @@
 ---
-name: token-safety-scanner
+title: Token Safety Scanner
 description: |
   Comprehensive token security analysis for EVM contracts. Checks contract risks (honeypot,
   mintable supply, hidden owner, blacklist, tax), holder concentration, LP lock status,
@@ -15,9 +15,7 @@ license: MIT
 
 # Token Safety Scanner
 
-## Token Safety Scanner
-
-### Overview
+## Overview
 
 | Step | Action | API |
 |------|--------|-----|
