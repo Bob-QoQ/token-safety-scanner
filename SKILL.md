@@ -1,5 +1,3 @@
-# Token Safety Scanner
-
 ---
 name: token-safety-scanner
 description: |
@@ -10,9 +8,12 @@ description: |
   "is this a rug pull", "is this a honeypot", "check holder concentration",
   or provide any EVM contract address for security analysis.
 metadata:
-  author: your-github-username
+  author: Bob-QoQ
   version: "1.0"
+license: MIT
 ---
+
+# Token Safety Scanner
 
 ## Token Safety Scanner
 
